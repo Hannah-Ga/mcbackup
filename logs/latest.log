@@ -1,0 +1,12 @@
+[09:17:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@49b47d9c[id=<null>,name=ServerSeeker_net,properties={},legacy=false] (/109.123.240.84:54008) lost connection: Disconnected
+[12:36:45] [Server thread/INFO]: Stopping the server
+[12:36:45] [Server thread/INFO]: Stopping server
+[12:36:45] [Server thread/INFO]: Saving players
+[12:36:45] [Server thread/INFO]: Saving worlds
+[12:36:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:36:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:36:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:36:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:36:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:36:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:36:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
